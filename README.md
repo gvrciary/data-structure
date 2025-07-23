@@ -18,6 +18,6 @@ The project showcases object-oriented programming principles, dynamic memory all
 - **Doubly Circular Linked List** - Circular doubly linked list
 - **Orthogonal Linked List** - Multi-dimensional linked list with 4-way navigation
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
